@@ -5,7 +5,7 @@
 AI × 翻訳 × GUI を組み合わせた、小型の画像解析アシスタントとして活用できます。
 
 ## 使用技術
-- Python 3.x
+- Python 3.13.0
 - Tkinter（GUI）
 - Hugging Face Transformers（BLIPモデル）
 - Googletrans（翻訳）
